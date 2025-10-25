@@ -169,8 +169,8 @@ It also highlights proficiency in **data cleaning, modeling, DAX, and dashboard 
 
 ## 👨‍💻 Author
 **Kishore S**  
-📧 [Your Email or Contact Link]  
-🔗 [LinkedIn Profile]  
+📧 reddykishores2003@gmail.com  
+🔗 https://www.linkedin.com/in/reddy-kishore-seethi-1a02a4293/
 
 ---
 
