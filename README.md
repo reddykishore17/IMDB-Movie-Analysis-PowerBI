@@ -149,15 +149,6 @@ Every visual is interconnected, ensuring a cohesive and intuitive user experienc
 
 ---
 
-## 📸 Dashboard Preview
-*(Add dashboard screenshots here for visual reference)*  
-
-| Overview Dashboard | Genre Analysis |
-|--------------------|----------------|
-| ![Overview](screenshots/dashboard.png) | ![Genre Analysis](screenshots/genre.png) |
-
----
-
 ## 📂 Repository Contents
 | File | Description |
 |------|--------------|
